@@ -32,5 +32,5 @@ A Python automation script built to query the Windows WLAN command-line utility 
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+   git clone [https://github.com/norafrank-official/windows-wifi-extractor.git](https://github.com/norafrank-offcial/windows-wifi-extractor.git)
    cd your-repo-name
